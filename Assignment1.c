@@ -21,6 +21,7 @@ int user(void)
 // Given current score return 1 or 2
 int computer(void)
 {
+ //Computer Strategy that was implemented
     int i=0;
     if((score%3)==0){i=i+2;}
     if((score%3)==1){i=i+1;}
