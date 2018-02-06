@@ -1,4 +1,4 @@
-// Assignment #2
+// Assignment #2      USE TEXT FILE LDB.txt TO TEST CODE
 
 #include <stdio.h>
 #include <stdlib.h>
